@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_e3bf0f4a15c320832a25840b0e17e64b4c24fded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1c54795de1b29a835c06b8c3f1094d818622ff27">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2451e65f148a63880c0975d1c13a6da614da4c82/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_d6a61f7008d367e3b5af04496204c13696a2ef0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_c0dd96437f83938dfdededb6f781b3b64373f0bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_22f3c82e4d299acabeca8074436468d023ec2e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_4d5a128c7df6a1ee5d939eb4c16b5531486e7dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_4143fd7039f0b7b3033e96d08fec458f4ba43f03.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2124440ace1980130572b7e5d90a594f692b2b08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_5586675692dd6d620c8ddb1256a31b9485f4fc72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d8f311cd064560a67161d690ea3e22719abe8c60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e50a151bf95466efc9fe4240dca69fb58a2fa0e0">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_28a16bb5ae3adcb2369fb3a641eebda5bf50b469/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_e0b37f62f0d598b63b94bdcc43d0828adcc6b4c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_76769f6cd23238aeb2b61d0fe1e92d1b267848fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_2a2f190595e40a65bac5aa2da903e2a077b27d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e85103dca7ccdee8cdd4914883589be8e2937fb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_9cb182954c4738b7e7eb5306513c0df4b7183643/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_443384762754d4ef33587e8c77fe80d5a350dd25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_7086761e40da81475a7134ed43f2a0afd6e90091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_32ed8268ab4bde5c88ae96e0acc9f0a1196c1207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_e2fb99ecd758594c929f4d18cdd12e315c194d7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0bd5b12b82658fa7f4fd797bc57c0909b8efb3b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5384fb1a0ec08e1cc279466ed9f7667caae699bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_5ed115dbb508e58028ef3a56fb8d6f9d9e51d792.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_55dbc820b26a277ee9818c8f3d52724cda98aa97/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_574c81b186237c30e104ef424ecac530902235a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d89615b401f80e759bfc48f8b8b6333c579c5e82.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_456d244bf65bc37df12469374cb965b5c6a41d9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_37756ae4a88cfb3d787ab19885d0298f64246096.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_3d43175d05a7fba1b63c9831fc3148ba4766977b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_23d13e715207a2c3b8b8fa990aeffd40ed8b60df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/himanshujain/Desktop/Desktop/FeedbackForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_47e2d32303e80ad88b07cd564f6adcf01558f768/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_d460fc9ecda325e2db476ef3867e8733e37caffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_83f3e46b5c9f3b4555910462e994934e97bef9d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_dc64b98938cfbd4291bfe5fee9f67ab3dc9a8ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0fc1cb35887dc21678cee995b36798c4e3ea07f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/himanshujain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/himanshujain/Desktop/FeedbackForm/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_443384762754d4ef33587e8c77fe80d5a350dd25.jar" />
+    </item>
+
+</items>
